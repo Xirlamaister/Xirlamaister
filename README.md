@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xirlamaister
 - 👀 I’m interested in Business Analytics and Finance
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL & Web-app development
 - 💞️ I’m looking to collaborate on project related to Finance and Stock Market Modelation
 - 📫 You can reach me at: gonzalo.iglesias.miguel@gmail.com
 
